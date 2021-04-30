@@ -3,7 +3,7 @@
 
 
 .vscode
-.test.exe
+test.exe
 
 # User-specific files
 *.suo
